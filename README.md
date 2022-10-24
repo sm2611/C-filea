@@ -1,6 +1,8 @@
- #Look at these Examples in these order.
+# C Programs.
+
+## Look at these Examples in these order.
 	
-##Programs names.
+## Programs names.
 1. HelloWorld.c
 1. string.c
 1. sum.c
